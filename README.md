@@ -36,7 +36,7 @@ To install KOBMAN locally running against your local server, run the following c
 
 
 ### Local Environment Installation
-
+This is edited by teja
 Run the following commands on the terminal to manage respective environments.
 	
 	Development environement setup commands:
